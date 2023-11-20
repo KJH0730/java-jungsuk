@@ -18,4 +18,5 @@ public class CastingEx4 {
         System.out.printf("(int)%f=%d\n", f2, i4);
     }
 
+
 }
