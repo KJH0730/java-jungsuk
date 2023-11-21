@@ -31,3 +31,11 @@ M
 src/chapter02/CastingEx3.java,6\a\6a169d8afc4cf59d1ea505d09acd6f241ab370d7
 M
 src/chapter02/CastingEx4.java,e\d\edd1b9db71724acb691bca3d6a50a60d3e058585
+N
+src/chapter03/OperatorEx6.java,9\2\9224965ee0e4572c84bd4da14fbd0376cae01fe3
+N
+src/chapter03/OperatorEx8.java,3\e\3edb1ecd0ba835963a8e8092884a965bcf6abdc3
+O
+src/chapter03/OperatorEx18.java,f\2\f2bb33fadb4ffcdd0b117d47e00ab588acd5524e
+O
+src/chapter03/OperatorEx31.java,1\0\10a4e15a4a48a73efc92453294db766c7e02b94b
