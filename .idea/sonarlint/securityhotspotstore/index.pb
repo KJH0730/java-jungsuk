@@ -39,3 +39,12 @@ O
 src/chapter03/OperatorEx18.java,f\2\f2bb33fadb4ffcdd0b117d47e00ab588acd5524e
 O
 src/chapter03/OperatorEx31.java,1\0\10a4e15a4a48a73efc92453294db766c7e02b94b
+J
+src/chapter04/FlowEx7.java,8\e\8e93f18901b706b42563fa0c3c086ff20485692d
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+J
+src/chapter04/FlowEx8.java,0\a\0a97e835a8b4f786541469db10abb6a72afcb027
+K
+src/chapter04/FlowEx34.java,2\6\26aa739e9123167ab09bebba96c46bf51877adca
