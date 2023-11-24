@@ -1,8 +1,6 @@
 package practice;
 
-import java.util.Arrays;
-
-public class Paractice5_9 {
+public class Practice5_9 {
     public static void main(String[] args) {
         char[][] star = {
                 {'*', '*', ' ', ' ', ' '},
