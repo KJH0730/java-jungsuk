@@ -88,3 +88,19 @@ N
 src/chapter05/MultiArrEx1.java,e\a\ea0ac4772097c4b8b07233be44666744e7e83178
 N
 src/chapter05/MultiArrEx2.java,f\d\fd61be419e1bc0cf43182d0ceba3bef78df1d7f9
+N
+src/chapter05/MultiArrEx4.java,2\b\2b8e47f2423f99b9e8265fddc2f5bdc8994ed067
+M
+src/practice/Practice5_7.java,1\f\1f3a338136cbe2ab80d3f22380fa449e03f0a0d3
+M
+src/practice/Practice5_8.java,f\5\f532793443620f5d54bddab7a505068292738b25
+M
+src/practice/Practice5_9.java,7\8\781199d249b6ec209c8168da9a105d0552f180cd
+N
+src/practice/Practice5_10.java,3\2\327eb253def0621c36caca02047e7b9231f031aa
+N
+src/practice/Practice5_11.java,d\2\d2c4617192e55bcb9540775b89347b189455a472
+N
+src/practice/Practice5_12.java,3\f\3ff29cb8678a57bc1aff24e9904c0674988aed71
+N
+src/practice/Practice5_13.java,b\7\b71732be1458dc38e3e21d92a742b9777845aa33
