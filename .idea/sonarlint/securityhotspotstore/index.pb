@@ -104,3 +104,17 @@ N
 src/practice/Practice5_12.java,3\f\3ff29cb8678a57bc1aff24e9904c0674988aed71
 N
 src/practice/Practice5_13.java,b\7\b71732be1458dc38e3e21d92a742b9777845aa33
+I
+src/chapter06/TvTest.java,6\7\671dc135626ab72b76a795d5ea994296fb7a15db
+J
+src/chapter06/TvTest2.java,e\8\e80ec35c91101982cf669980e4a93174d19b661b
+J
+src/chapter06/TvTest4.java,5\4\541c4878c9ae17cacc2981dc174344b1d46105e7
+S
+#src/chapter06/PrimitiveParamEx.java,a\3\a397f53602945c3779c058c4646cbfe6d9cbf2a1
+S
+#src/chapter06/ReferenceParamEx.java,6\d\6dd694a4ae276c91745deede59edbc5deacd6cd4
+Q
+!src/chapter06/FactorialTest2.java,4\3\430c6e493621c0731295957baaa1667016863981
+L
+src/chapter06/PowerTest.java,1\3\13b58542caaeba75c6c6cdfbdeade69dff32cae2
