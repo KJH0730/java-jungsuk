@@ -118,3 +118,15 @@ Q
 !src/chapter06/FactorialTest2.java,4\3\430c6e493621c0731295957baaa1667016863981
 L
 src/chapter06/PowerTest.java,1\3\13b58542caaeba75c6c6cdfbdeade69dff32cae2
+J
+src/chapter06/CarTest.java,9\2\92d448fe741eb96285e840954263f16dafa67530
+L
+src/chapter06/BlockTest.java,d\5\d5f9575b4a628a0efe87f1a80d85d4fd8bcccd26
+N
+src/chapter06/ProductTest.java,d\8\d836bb1ea03c96502aa9dbe3db7ff6028271016c
+O
+src/chapter06/DocumentTest.java,1\5\15a8be9d513839f5347059b5da0d6161f2984263
+N
+src/practice/Practicce6_6.java,e\b\eb684648fe26536f04abc94eb0eed5775622620d
+N
+src/practice/Practice6_20.java,c\e\cec3714ff60bb29e66f921660edb6bc84f774cef
