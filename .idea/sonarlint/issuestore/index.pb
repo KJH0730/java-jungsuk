@@ -130,3 +130,13 @@ N
 src/practice/Practicce6_6.java,e\b\eb684648fe26536f04abc94eb0eed5775622620d
 N
 src/practice/Practice6_20.java,c\e\cec3714ff60bb29e66f921660edb6bc84f774cef
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+L
+src/chapter07/DrawShape.java,3\6\368e713e3d6ee3349ab27b45eb047ebdfb78a7d0
+K
+src/chapter07/DeckTest.java,c\4\c48e12ea9fec3d3e3da576fee2d5806112adf40b
+G
+src/chapter07/TVCR.java,1\e\1ea5860aa2db655f5cf15b3f0e2569ec8b202e3b
+P
+ src/chapter07/SingletonTest.java,b\7\b793bd724c2000300722fc6a08a519db5688a8e7
