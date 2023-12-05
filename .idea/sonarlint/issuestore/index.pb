@@ -127,8 +127,6 @@ N
 O
 src/chapter06/DocumentTest.java,1\5\15a8be9d513839f5347059b5da0d6161f2984263
 N
-src/practice/Practicce6_6.java,e\b\eb684648fe26536f04abc94eb0eed5775622620d
-N
 src/practice/Practice6_20.java,c\e\cec3714ff60bb29e66f921660edb6bc84f774cef
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
@@ -154,3 +152,15 @@ T
 $src/chapter07/DefaultMethodTest.java,7\b\7b90b3fa42a9846b50a2347c4007946a217d5862
 M
 src/chapter07/MyPractice.java,0\6\0656d109d2f3e1fd0f7fc0d3daf2c04b7940af42
+M
+src/practice/Practice7_1.java,6\a\6a3d21dc55ebc86712c2dadfb879da5f0c859508
+N
+src/practice/Practice7_11.java,1\3\13a7df6d0bbb758d75a14366ec1c4d04a8e66ed7
+N
+src/practice/Practice7_19.java,8\f\8fd77673883aedd0841b21de242f712caea08a0a
+N
+src/practice/Practice7_22.java,2\3\23dcbd4b6d37504dec3ca153d7227fb887523d1b
+N
+src/practice/Practice7_25.java,9\8\98b8084b29cb16ccc8b3111f0f355768fc531e7b
+N
+src/practice/Practice7_28.java,4\c\4ca2ac22a1d032f05c580d5e35014210abbea123
