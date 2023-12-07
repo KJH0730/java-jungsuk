@@ -164,3 +164,9 @@ N
 src/practice/Practice7_25.java,9\8\98b8084b29cb16ccc8b3111f0f355768fc531e7b
 N
 src/practice/Practice7_28.java,4\c\4ca2ac22a1d032f05c580d5e35014210abbea123
+O
+src/chapter08/ExceptionEx3.java,4\3\435a4b87581546737231f5e79bce087fb23545c6
+P
+ src/chapter08/ExceptionEx16.java,1\7\17d9cbe00ec3421c993f29b86eb74c2f74b09d06
+U
+%src/chapter08/ChainedExceptionEx.java,f\7\f797489a7a3eee8fd2f8348b591a9c2dedab9703
