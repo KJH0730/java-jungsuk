@@ -170,3 +170,11 @@ P
  src/chapter08/ExceptionEx16.java,1\7\17d9cbe00ec3421c993f29b86eb74c2f74b09d06
 U
 %src/chapter08/ChainedExceptionEx.java,f\7\f797489a7a3eee8fd2f8348b591a9c2dedab9703
+K
+src/chapter09/CloneEx1.java,c\c\cc27b8ff969c5e57ff6312b8452717c311063b72
+R
+"src/chapter09/ShallowDeepCopy.java,2\8\28718def9fc6b12decefc8d33fdf3eed462ba9a0
+K
+src/chapter09/ClassEx1.java,1\5\15c9218f259245558d7070ad04f46aed4ed136c8
+L
+src/chapter09/StringEx4.java,7\9\79096228d8672cc90c631068d247e440976d2f6d
