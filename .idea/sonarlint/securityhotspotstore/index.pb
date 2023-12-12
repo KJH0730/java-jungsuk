@@ -178,3 +178,11 @@ K
 src/chapter09/ClassEx1.java,1\5\15c9218f259245558d7070ad04f46aed4ed136c8
 L
 src/chapter09/StringEx4.java,7\9\79096228d8672cc90c631068d247e440976d2f6d
+L
+src/chapter09/StringEx7.java,e\e\eed2a33dc23b6384b0430c63dc30bedf6cd2b894
+R
+"src/chapter09/StringBufferEx1.java,a\3\a30138f51f0684fb7aa6783e5a98c1f1c0603a2b
+R
+"src/chapter09/StringBufferEx2.java,4\6\4683e8cd9a70a4df021cb389f49ae0caea2970a9
+J
+src/chapter09/MathEx1.java,f\9\f91926318896cf1b2bcd788a07e410d8076e0ba4
