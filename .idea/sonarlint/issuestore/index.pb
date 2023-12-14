@@ -200,3 +200,9 @@ L
 src/chapter09/RandomEx4.java,2\6\2632d00a0e27719020eb1a72f3d568882e92ff24
 M
 src/chapter09/RegularEx1.java,b\b\bb53cc8b39f3c77fbaf7bd3f2770fbb1bac41a0c
+M
+src/chapter09/RegularEx2.java,a\4\a4af4a23fc8153f2703fa05645f9fa4be76dc687
+M
+src/chapter09/RegularEx3.java,e\9\e93be82dc0082d48d3b5f2db9bc29bf05028c2ec
+M
+src/chapter09/RegularEx4.java,5\6\5609c027fff55ed0ed95fa17e1cb37af8196b881
