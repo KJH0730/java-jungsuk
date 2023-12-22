@@ -206,3 +206,17 @@ M
 src/chapter09/RegularEx3.java,e\9\e93be82dc0082d48d3b5f2db9bc29bf05028c2ec
 M
 src/chapter09/RegularEx4.java,5\6\5609c027fff55ed0ed95fa17e1cb37af8196b881
+M
+src/chapter09/ScannerEx1.java,1\a\1af06a7861da221e2a62568211a781e0236ddc45
+M
+src/chapter09/ScannerEx3.java,f\d\fdbb230954bb6943d7e3f95d8096632a3cdc5535
+U
+%src/chapter09/StringTokenizerEx1.java,6\7\67a39fbcb2521c7a5c0af3c7d4afeb7c8d8340f5
+U
+%src/chapter09/StringTokenizerEx2.java,5\e\5e762570e062afef9fa68ef75573d6bbff87e47b
+U
+%src/chapter09/StringTokenizerEx3.java,a\8\a890241f0393bde3f38f9611832b965885994ba0
+U
+%src/chapter09/StringTokenizerEx4.java,0\b\0b93dd2d895ac1cb49bc9c46b94c55a6d93dc168
+U
+%src/chapter09/StringTokenizerEx5.java,5\5\55c1eea4c83702e9e7d1fdda8398227f443b5f3a
