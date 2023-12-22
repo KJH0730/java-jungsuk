@@ -220,3 +220,13 @@ U
 %src/chapter09/StringTokenizerEx4.java,0\b\0b93dd2d895ac1cb49bc9c46b94c55a6d93dc168
 U
 %src/chapter09/StringTokenizerEx5.java,5\5\55c1eea4c83702e9e7d1fdda8398227f443b5f3a
+S
+#src/chapter10/DecimalFormatEx1.java,1\c\1ca4ee10e4592cf38277bbd2ac9e440f0f60b376
+P
+ src/chapter10/DateFormatEx1.java,4\3\433d2e6ca297e66c17b34829ad48975537df1b88
+P
+ src/chapter10/DataFormatEx3.java,b\7\b7d3584a32115dcdd2b3dd464c9e818dba2570bf
+P
+ src/chapter10/DateFormatEx4.java,9\4\94f693adf5d2eb80d1ec4d2f973394644192ba37
+R
+"src/chapter10/ChoiceFormatEx1.java,f\2\f24d13804c77f7115932b57c9b3d0d8df701fe92
