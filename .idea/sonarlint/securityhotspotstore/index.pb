@@ -230,3 +230,9 @@ P
  src/chapter10/DateFormatEx4.java,9\4\94f693adf5d2eb80d1ec4d2f973394644192ba37
 R
 "src/chapter10/ChoiceFormatEx1.java,f\2\f24d13804c77f7115932b57c9b3d0d8df701fe92
+S
+#src/chapter10/MessageFormatEx1.java,2\e\2e1688933a17367b1859342f8bb13cdeec7fe28e
+S
+#src/chapter10/MessageFormatEx4.java,0\2\029f81a30f020d6b4d13ba9a8edde92e6e77880d
+G
+src/chapter10/data4.txt,c\f\cf0d92f3b7202fb5505f6618104efe1a380ed319
