@@ -236,3 +236,13 @@ S
 #src/chapter10/MessageFormatEx4.java,0\2\029f81a30f020d6b4d13ba9a8edde92e6e77880d
 G
 src/chapter10/data4.txt,c\f\cf0d92f3b7202fb5505f6618104efe1a380ed319
+M
+src/chapter10/NewTimeEx1.java,6\1\613830c65d3ae7557371a4487f5e8d46d89cee95
+M
+src/chapter10/NewTimeEx2.java,f\2\f2bc607bf4b8c71df5e07c1ad3a729d5b4d52010
+M
+src/chapter10/NewTimeEx3.java,a\8\a8593bd77720af5774b38a0353a136900218f597
+S
+#src/chapter10/DateFormatterEx1.java,6\0\60399f3b7b731e990531ff3b00a19b0a3e31b03a
+S
+#src/chapter10/DateFormatterEx2.java,3\b\3b9e15a9d598f7450717fd25becd86d91f235cb3
