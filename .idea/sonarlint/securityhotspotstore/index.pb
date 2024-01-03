@@ -276,3 +276,15 @@ L
 src/chapter11/MyVector2.java,e\d\edaff5dec6a9eafaf2b5eb47fdc3a5475200a066
 P
  src/chapter11/MyVector2Test.java,0\c\0cf02ab2ab75d3a73b3ff7eaa01ad9976a09b740
+M
+src/chapter11/HashSetEx5.java,d\e\de9a7969690612fca963005da7e2f87968c22dce
+O
+src/chapter11/TreeSetLotto.java,7\8\7853111c6807ca34e771bc3c4736a7191a85f08b
+M
+src/chapter11/TreeSetEx1.java,6\6\66015818f6fe42ae60f9cdc65d233346c35240b3
+M
+src/chapter11/TreeSetEx2.java,c\0\c0fea306149f24f8b137ae247a7adbdcc1632f26
+M
+src/chapter11/HashMapEx1.java,f\9\f98645d0340e472e5eacc97745ab7ebbf8804582
+M
+src/chapter11/HashMapEx2.java,7\f\7f83018cf1a5d720353a6085811ccf939768504e
