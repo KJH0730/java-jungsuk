@@ -320,3 +320,11 @@ N
 src/chapter14/OptionalEx1.java,8\9\89cebac4091de80deb931fe01cbaf1eefbbd96e5
 L
 src/chapter14/StreamEx5.java,8\9\891d32c737c1d3cc3d8992219b9b9b10b34fe56f
+L
+src/chapter14/StreamEx6.java,b\e\bebe808ed7761634a4549a7d1c88e763b5293894
+L
+src/chapter14/StreamEx7.java,5\f\5f5d51ca0bfc8b132beb3b6f3b0d0fc97885fcab
+L
+src/chapter14/StreamEx8.java,4\b\4b2f36d601e85401ad9c2a5391838b1528cb441a
+O
+src/chapter14/CollectorEx1.java,f\0\f02c3007a77d5870f524f9893b04c9db2aa5334f
