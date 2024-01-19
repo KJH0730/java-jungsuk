@@ -328,3 +328,15 @@ L
 src/chapter14/StreamEx8.java,4\b\4b2f36d601e85401ad9c2a5391838b1528cb441a
 O
 src/chapter14/CollectorEx1.java,f\0\f02c3007a77d5870f524f9893b04c9db2aa5334f
+H
+src/chapter15/IOEx1.java,8\1\8133f61a2995f3e495e58b7b5c98e9a3494ba766
+H
+src/chapter15/IOEx2.java,6\d\6d850187f9c39f1869fa9ba0adfb4707bd1922db
+H
+src/chapter15/IOEx3.java,3\0\300e2fed46529fa3177b094920a028d5a9273946
+H
+src/chapter15/IOEx4.java,a\9\a99fb935fd5ceb966add2f6007cf0a84b1225d6d
+X
+(src/chapter15/SequenceInputStreamEx.java,c\2\c2c4a9472e0880bce08e6b71a5c5c1930ace0580
+P
+ src/chapter15/FileReaderEx1.java,0\0\00bbff8e136273c88e2bf660c8fbffc027c5f3a7
